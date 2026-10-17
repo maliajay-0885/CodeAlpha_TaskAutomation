@@ -1,0 +1,7 @@
+Contact us at support@example.com
+
+Student email: student@gmail.com
+
+Internship email: careers@codealpha.tech
+
+Invalid example: hello@
